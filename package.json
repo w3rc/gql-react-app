@@ -1,0 +1,20 @@
+{
+  "name": "graphql-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "git": "git add . && git commit -m ... && git push origin master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w3rc/graphql-react-app.git"
+  },
+  "author": "w3rc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/w3rc/graphql-react-app/issues"
+  },
+  "homepage": "https://github.com/w3rc/graphql-react-app#readme"
+}
